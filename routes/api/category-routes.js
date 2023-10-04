@@ -48,7 +48,7 @@ router.put("/:id", async (req, res) => {
   try {
     const updatedCategory = await Category.update(
       {
-        category: req.body.category_name,
+        category_name: req.body.category_name,
       },
       {
         where: {
