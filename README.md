@@ -10,7 +10,7 @@ In order to use the e-commerce-backend app, the user must install node.js. Node.
 
 ## Usage
 
-Please see the following usage demonstration:
+Please see the following usage demonstration: https://drive.google.com/file/d/1RaZOzcC1uglIFXhQqlwFz9Xok5wckRha/view
 
 ## Credits
 
